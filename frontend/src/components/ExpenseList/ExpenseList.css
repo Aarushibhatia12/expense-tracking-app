@@ -1,0 +1,17 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px;
+    max-width: 370px;
+    margin: 20px auto;
+}
+
+li {
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border: 1px solid #ccd6f6;
+    border-radius: 10px;
+    background-color: #112240;
+    color: #e6f1ff;
+    transition: background-color 0.3s;
+}
